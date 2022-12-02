@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Harshal Mehta</h1>
+<h1 align="center">Hi 👋, I'm Harshal Mehta</h1>
 <h3 align="center">I am a graduate student and software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshlmeht&label=Profile%20views&color=0e75b6&style=flat" alt="hrshlmeht" /> </p>
