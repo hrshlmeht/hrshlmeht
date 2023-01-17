@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshlmeht&label=Profile%20views&color=0e75b6&style=flat" alt="hrshlmeht" /> </p>
 
 
-- 🔭 I’m currently working on **Web RTC application**
+- 🔭 I’m currently working on **Making a Kanban Board using React**
 
 - 🌱 I’m currently learning **Python , React , Javascript and DeepLearning**
 
