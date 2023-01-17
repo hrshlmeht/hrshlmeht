@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshlmeht&label=Profile%20views&color=0e75b6&style=flat" alt="hrshlmeht" /> </p>
 
-
+<p>https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif </p>
 - 🔭 I’m currently working on **Making a Kanban Board using React**
 
 - 🌱 I’m currently learning **Python , React , Javascript and DeepLearning**
