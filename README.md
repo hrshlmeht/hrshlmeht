@@ -7,9 +7,10 @@
   <img src='https://github.com/snipe/animated-gifs/blob/master/Thinking/Dr10Well-1.gif'width=100 >
   <br><br>
   <samp>
-   Because learning is fun at times
+   Because learning is fun 
   </samp>
 </p>
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 - 🔭 I’m currently working on **Making a Kanban Board using React**
 
 - 🌱 I’m currently learning **Python , React , Javascript and DeepLearning**
