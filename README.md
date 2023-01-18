@@ -10,7 +10,7 @@
    Because learning is fun 
   </samp>
 </p>
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 - 🔭 I’m currently working on **Making a Kanban Board using React**
 
 - 🌱 I’m currently learning **Python , React , Javascript and DeepLearning**
