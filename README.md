@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python , React , Javascript and DeepLearning**
 
-- 📫 How to reach me **harshalmehta1998@gmail.com**
+- 📫 My mail id for contact - **harshalmehta1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
