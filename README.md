@@ -9,7 +9,7 @@
   <samp>
    Because learning is fun 
   </samp>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  
 </p>
 
 - 🔭 I’m currently working on **Making a Kanban Board using React**
