@@ -8,10 +8,9 @@
   <img src='https://github.com/snipe/animated-gifs/blob/master/Thinking/Dr10Well-1.gif'width=100 >
   <br><br>
   <samp>
-   Because learning is fun 
+   Because learning is fun! 
   </samp>
-  <img src="https://raw.githubusercontent.com/insolitum/insolitum/main/contributions.svg">
-  
+    
 </p>
 
 - 🔭 I’m currently working on **Data Extractor using Python**
