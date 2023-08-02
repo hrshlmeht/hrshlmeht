@@ -13,9 +13,7 @@
     
 </p>
 
-- 🔭 I’m currently working on **Data Extractor using Python**
-
-- 🌱 I’m currently learning **Python , React , Javascript and DeepLearning**
+- 🌱 I’m currently learning **Python , React , Javascript and kubernetes**
 
 - 📫 My mail id for contact - **harshalmehta1998@gmail.com**
 
